@@ -1,21 +1,59 @@
-<h1 align="center">Hi 👋, I'm Ujjwal Joshi</h1>
-<h3 align="center">Passionate Front End Developer</h3>
+# Hi, I'm Ujjwal Joshi 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=20joshi&label=Profile%20views&color=0e75b6&style=flat" alt="20joshi" /> </p>
+🚀 **Frontend Developer** with hands-on experience in building **responsive, scalable, and SPA-based web applications** using **React.js and JavaScript (ES6)**.  
+I enjoy converting UI/UX designs into clean, performant code and collaborating in Agile teams.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=20joshi" alt="20joshi" /></a> </p>
+---
 
-- 📫 How to reach me **ujjwal20joshi@gmail.com**
+## 🛠️ Tech Stack
+- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+- **React Concepts:** Hooks, Context API, Routing, Conditional Rendering
+- **API & Auth:** REST APIs, JWT-based Authentication
+- **Tools:** Git, GitHub, Postman, Vercel, VS Code, Chrome DevTools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 💼 Experience
+**Frontend Developer Intern – Envsoft Solutions LLP**  
+- Built reusable React components and responsive layouts  
+- Integrated frontend with backend APIs and authentication  
+- Optimized UI performance by reducing unnecessary re-renders  
+- Worked in Agile/Scrum environment with Git version control  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=20joshi&show_icons=true&locale=en&layout=compact" alt="20joshi" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=20joshi&show_icons=true&locale=en" alt="20joshi" /></p>
+## 🚀 Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=20joshi&" alt="20joshi" /></p>
+### 🔹 Red Moon Bakery & Cafe (Client Project)
+Live business website developed for a Canadian client.  
+- Responsive UI with Tailwind CSS  
+- Smooth animations using Framer Motion  
+- Cross-browser compatible and accessible design  
+
+🔗 **Live:** https://www.redmoonbrampton.com  
+🔗 **Code:** (add GitHub repo link)
+
+---
+
+### 🔹 Doctor Appointment Booking System
+- Role-based UI for patients, doctors, and admins  
+- Protected routes and conditional rendering  
+- Backend API integration  
+
+🔗 **Code:** (add GitHub repo link)
+
+---
+
+### 🔹 Fitness Exercises Web App
+- API-based React application  
+- Search, filtering, pagination, reusable components  
+
+🔗 **Code:** (add GitHub repo link)
+
+---
+
+## 📫 Connect With Me
+- **LinkedIn:** https://linkedin.com/in/ujjwal-joshi-aa0510206  
+- **Email:** ujjwal20joshi@gmail.com  
+
+⭐ *Open to entry-level Frontend / React Developer opportunities*
