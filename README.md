@@ -31,7 +31,7 @@ Live business website developed for a Canadian client.
 - Cross-browser compatible and accessible design  
 
 🔗 **Live:** https://www.redmoonbrampton.com  
-🔗 **Code:** (add GitHub repo link)
+
 
 ---
 
@@ -40,7 +40,7 @@ Live business website developed for a Canadian client.
 - Protected routes and conditional rendering  
 - Backend API integration  
 
-🔗 **Code:** (add GitHub repo link)
+
 
 ---
 
@@ -48,7 +48,6 @@ Live business website developed for a Canadian client.
 - API-based React application  
 - Search, filtering, pagination, reusable components  
 
-🔗 **Code:** (add GitHub repo link)
 
 ---
 
